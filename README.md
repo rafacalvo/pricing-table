@@ -1,0 +1,1 @@
+Pricing component with toggle challenge taken from [Frontend Mentor](https://www.frontendmentor.io).
